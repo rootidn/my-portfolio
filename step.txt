@@ -1,0 +1,10 @@
+step
+  - cra
+  - download assets
+  - create component
+
+
+timestemp
+  2.2
+
+  https://learntocodewith.me/posts/portfolio-tips/

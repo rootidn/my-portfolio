@@ -1,0 +1,68 @@
+const Menu = [
+  {
+    id: 1,
+    image: "https://imgur.com/rCvllSC.jpg",
+    title: "Revou: Data Analytics Mini Course",
+    date: "2023-09-14",
+    link: "https://github.com/rootidn/Works/tree/master/2023_9_RevoUMiniCourseDA",
+    category: "Dashboard",
+  },
+  {
+    id: 2,
+    image: "https://imgur.com/vmlkjay.jpg",
+    title: "Dicoding Submission: Air Quality Analysis",
+    date: "2023-10-19",
+    link: "https://github.com/rootidn/dicoding-submission-analisis-data",
+    category: "Dashboard",
+  },
+  {
+    id: 3,
+    image: "https://imgur.com/wO1k9CN.jpg",
+    date: "2023-02-20",
+    title: "DSLS: Data Analytics Mini Project",
+    link: "https://github.com/rootidn/dsls-da",
+    category: "Dashboard",
+  },
+  {
+    id: 4,
+    image: "https://imgur.com/oZLoQ3g.jpg",
+    date: "2023-10-20",
+    title: "Portfolio Websites",
+    link: "#",
+    category: "Website",
+  },
+  {
+    id: 5,
+    image: "https://imgur.com/PlBM2SW.jpg",
+    date: "2022-04-14",
+    title: "UAS BigData",
+    link: "https://github.com/rootidn/UAS-Bigdata",
+    category: "Model",
+  },
+  {
+    id: 6,
+    image: "https://imgur.com/lRcJ3yG.jpg",
+    date: "2022-04-14",
+    title: "Music Classification",
+    link: "https://github.com/rootidn/Music-Classification",
+    category: "Model",
+  },
+  {
+    id: 7,
+    image: "https://imgur.com/Y1ZdRgN.jpg",
+    date: "2022-09-27",
+    title: "Skripsi: YOLOv7 Virus Segmentation",
+    link: "https://github.com/rootidn/virus-segmentation-apps",
+    category: "Model",
+  },
+  {
+    id: 8,
+    image: "https://imgur.com/wkl5onv.jpg",
+    date: "2022-02-13",
+    title: "DSLS: Data Scientist Mini Project",
+    link: "https://github.com/rootidn/dsls-ds-mini-project",
+    category: "Model",
+  },
+];
+
+export default Menu;

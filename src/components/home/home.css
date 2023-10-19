@@ -1,0 +1,97 @@
+.home_socials-link {
+  color: var(--title-color);
+  font-size: 1.25rem;
+  transition: .3s;
+}
+
+.home_socials-link:hover {
+  color: var(--first-color)
+}
+
+@keyframes ani-mouse {
+  0% {
+    top:40%;
+  }
+  50% {
+    top:60%;
+  }
+  50% {
+    top:60%;
+  }
+  100% {
+    top:40%;
+  }
+}
+.dropdown-logo {
+  animation: ani-mouse 2s ease-in-out infinite;
+}
+
+/* .shapes {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+} */
+
+/* .shape {
+  position: absolute;
+}
+
+.s1 {
+  left: 72%;
+  top: 85%;
+}
+.s2 {
+  left: 6%;
+  top: 86%;
+}
+.s3 {
+  left: 10%;
+  top: 50%;
+}
+.s4 {
+  left: 2%;
+  top: 20%;
+}
+
+.s5 {
+  left: 92%;
+  top: 70%;
+}
+.s6 {
+  left: 84%;
+  top: 44%;
+}
+.s7 {
+  left: 42%;
+  top: 9%;
+}
+.s8 {
+  left: 72%;
+  top: 25%;
+}
+
+.s9 {
+  left: 22%;
+  top: 10%;
+}
+.s10 {
+  left: 28%;
+  top: 80%;
+}
+.s11 {
+  left: 88%;
+  top: 12%;
+}
+.s12 {
+  left: 94%;
+  top: 42%;
+} */
+
+@media screen and (max-width: 1024px) {
+  .home_socials-link {
+    font-size: 1.125rem;
+  }
+}
